@@ -1,0 +1,22 @@
+Todos os artigos escritos para a Oficina de Projetos e Empresas (OPE) devem ser escritos usando este modelo como base. 
+O artigo deve usar o formato A4 com uma única coluna. 
+
+As margens devem ser de 2,5 cm para a superior, 2,5 cm para as laterais e 2,5 cm para a inferior, não havendo cabeçalhos ou rodapés, a menos da numeração no rodapé e 
+eventuais notas de rodapé. 
+
+A fonte principal deve ser a Times New Roman, com tamanho 12 (points) sem espaço antes de cada parágrafo.
+
+A primeira linha de todo parágrafo de cada seção deve ser identado por uma tabulação ou formatação correspondente de parágrafo. 
+
+Na primeira página deve haver o título do trabalho, os nomes dos autores do trabalho (com seus e-mails em nota de rodapé), o nome e endereço da faculdade, 
+a data esperada de entrega do trabalho, o abstract em Inglês e o resumo em português. 
+
+O Título deve estar centralizado na página, com tamanho 16, em negrito e com espaçamento 12 antes. Nomes também serão centralizados (conforme exemplo) com tamanho 12, 
+negrito, todos na mesma linha, separados por vírgula e com 12 pontos de espaço para o título. 
+
+O endereço da faculdade também terá tamanho 12 de fonte, com 12 pontos de espaço para os nomes. Endereços de e-mail devem ser escritos com a 
+fonte Courier New, tamanho 10, com 6 pontos de espaço antes e depois. O artigo não deve passar de 10 páginas, contando com as referências.
+
+Na seção de introdução espera-se um breve resumo do escopo do trabalho, dizendo em poucas linhas do que se trata o produto construído. 
+
+Diga quem é o cliente, o que foi pedido e o que será entregue.
